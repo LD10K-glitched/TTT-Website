@@ -13,8 +13,8 @@ import {
 
 const candidates = [
   {
-    name: "Amara Okonkwo",
-    initials: "AO",
+    name: "Rife",
+    initials: "R.B",
     position: "Party Leader & Prime Minister Candidate",
     electorate: "Greenfield, Victoria",
     bio: "Former community organiser with 15 years in local government, Amara built her career advocating for transparent public services and equitable resource distribution across Melbourne's outer west. She holds a Masters in Public Policy from Melbourne University and is known for her ability to build unlikely coalitions between business, unions, and community groups.",
@@ -25,8 +25,8 @@ const candidates = [
     years: "15 years public service",
   },
   {
-    name: "James Hartwell",
-    initials: "JH",
+    name: "Bonnie",
+    initials: "W.K",
     position: "Deputy Leader & Economic Policy Spokesperson",
     electorate: "Bayside, New South Wales",
     bio: "An economist turned politician, James spent a decade advising non-profits on sustainable funding models before entering public service in 2018. He believes passionately in evidence-based, long-term fiscal policy that invests in people. Outside parliament, he mentors young people from lower-income backgrounds pursuing careers in finance and economics.",
@@ -37,8 +37,8 @@ const candidates = [
     years: "8 years in policy",
   },
   {
-    name: "Dr. Priya Nambiar",
-    initials: "PN",
+    name: "Sahil",
+    initials: "S.S",
     position: "Shadow Minister for Health & Environment",
     electorate: "Riverstone, Queensland",
     bio: "A practising physician and environmental scientist, Dr. Nambiar bridges scientific expertise with compassionate, community-centred policy. She founded the Healthy Futures Foundation in 2015, which has provided free medical care to over 12,000 Queenslanders in rural and remote areas. She holds dual PhDs in Medicine and Environmental Science.",
@@ -49,8 +49,8 @@ const candidates = [
     years: "12 years clinical practice",
   },
   {
-    name: "Lachlan Torres",
-    initials: "LT",
+    name: "Sanjana",
+    initials: "S.R",
     position: "Youth Affairs & Digital Economy Spokesperson",
     electorate: "North Harbour, Western Australia",
     bio: "At 28, Lachlan is the youngest member of Triple T's leadership team. A former software engineer and digital literacy advocate, he spent four years running tech education workshops in underserved schools before standing for election. He connects technology policy to real community needs, and his campaign slogan — 'Future-proof, not just future-ready' — captured a generation.",
